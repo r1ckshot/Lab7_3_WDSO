@@ -1,0 +1,1 @@
+Jezeli potrzebno opoznic odczytanie z potoku, to potrzebno przeniesc sleep(2) przed fgets()

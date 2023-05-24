@@ -1,0 +1,3 @@
+Funkcja sscanf() sluzy do czytania danych z bufora.
+W moim przypadku odczytuje numer wyslany przez serwer (czyli indeks i w programie 'serwer')
+%d jest specyfikatorem, wiec sscanf() szuka takiego wzorca w buforze i zapisuje odnaleziona wartosc do zmiennej numer.
